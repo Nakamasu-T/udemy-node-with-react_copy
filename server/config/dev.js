@@ -3,4 +3,7 @@ module.exports = {
   googleClientSecret: '',
   mongoURI: '',
   cookieKey: 'jlkjfdklajfdajiejijijfdf',
+  stripePublishableKey: '',
+  stripeSecretKey: '',
+  sendGridKey: '',
 };
